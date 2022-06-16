@@ -1,0 +1,68 @@
+h1 {
+    text-align: center;
+    font-style: oblique;
+}
+.stroka_opys {
+    text-align: center;
+    font-style: oblique;
+    padding: 15px;
+    border: solid 1px;
+    width: 850px;
+    border-top-left-radius: 65px;
+    border-top-right-radius: 65px;
+    border-bottom-left-radius: 65px;
+    border-bottom-right-radius: 65px;
+    display: block;
+    margin: auto;
+    background-color:aquamarine;
+}
+.image-center {
+    display: block;
+    margin: auto;
+    width: 400px;
+    height: 400px;
+}
+.polaroid {
+    display: block;
+    margin: 40px;
+    text-align: center;
+}
+.polaroid
+ img {
+    border: 10px solid #fff;
+    border-bottom: 45px solid #fff;
+    -webkit-box-shadow: 3px 3px 3px #777;
+    -moz-box-shadow: 3px 3px 3px #777;
+    box-shadow: 3px 3px 3px #777;
+}
+.polaroid
+ p {
+    position:static;
+    text-align: center;
+    width: 100%;
+    bottom: 0px;
+    font-family: 'Poppins', sans-serif;
+    color: black;
+   }
+.abzac {
+    font-style: oblique;
+    border: solid 1px;
+    width: 400px;
+    text-align: center;
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+    border-bottom-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+    padding: 12px;
+    display: block;
+    margin-top: 30px;
+    margin-left: 700px;
+    background-color: #fff647;
+}
+.abzac 
+li {
+    list-style-type: circle;
+}
+body {
+    background-color: #BABABA;
+}
